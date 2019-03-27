@@ -6,7 +6,7 @@
     $.extend(self, {
 
         nEdselBackgroud: [
-            'http://www.away.com.br/nvampeta/bg1.png'
+            'https://i.imgur.com/nVhQi1I.png'
         ],
 
         nEdselImgs: [        
